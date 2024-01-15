@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "datetime": "Jan 13, 2024 6:03:20PM",
+      "body": "Hi , This is my First Post Related to Tech"
+    },
+    {
+      "id": "2",
+      "title": "My 2nd Post",
+      "datetime": "Jan 13, 2024 7:03:20PM",
+      "body": "Hi , This is my Second Post Related to Tech"
+    },
+    {
+      "id": "3",
+      "title": "My 3rd Post",
+      "datetime": "Jan 13, 2024 8:03:20PM",
+      "body": "Hi , This is my 3rd Post Related to Tech"
+    },
+    {
+      "id": "4",
+      "title": "My 4th Post",
+      "datetime": "January 15, 2024 3:10:26 PM",
+      "body": "Hi , This is my 4th Post Related to Tech"
+    },
+    {
+      "id": "41",
+      "title": "This is my 5th post related to react js",
+      "datetime": "January 15, 2024 4:30:53 PM",
+      "body": "Hi, This is my 5th technical blog related to ReactJS"
+    }
+  ]
+}
